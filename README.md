@@ -2,4 +2,4 @@
 
 Practice with HTML forms and CSS styling
 
-![Screenshot of completed dating form](week2workshop-datingform.png)
+![Screenshot of completed dating form](dating-form-screenshot.png)
